@@ -9,6 +9,6 @@ describe('App test', () => {
 	});
 
 	test('renders learn react link', () => {
-		expect(screen.getByText(/Vite + React/i)).toBeDefined();
+		expect(screen.getByText(/Vite \+ React/i)).toBeDefined();
 	});
 });
