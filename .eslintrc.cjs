@@ -20,4 +20,9 @@ module.exports = {
     ],
     'prettier/prettier': 'error',
   },
+  settings: {
+    react: {
+      version: 'detect'
+    }
+  }
 }

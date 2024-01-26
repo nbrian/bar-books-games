@@ -51,6 +51,7 @@ These are the main libraries used for this project:
 - @primer/octicons-react - icons by github
 - prettier - code formatter
 - vitest - testing framework
+- husky - quality checking using git hooks
 
 ## How to Use the Project
 
